@@ -21,5 +21,6 @@ The tech stacks used to create this project was the following:
   - Miro
   - Figma
  
- ## Our deployed website
+<!--  ## Our deployed website
  https://servicestack.netlify.app/
+ -->
